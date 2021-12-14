@@ -15,7 +15,7 @@
 
 - 💬 Fale comigo em: **lspalmeira.bio@gmail.com**
 
-- ⚡ Curiosidade sobre mim: Amo basquete, sou flautista de vez em quando e escuto muito heavy metal (especiamente o power metal).
+- ⚡ Curiosidade sobre mim: amo basquete, sou flautista de vez em quando e escuto muito heavy metal (especiamente o power metal).
 
 
 ## Linguagens e ferramentas:

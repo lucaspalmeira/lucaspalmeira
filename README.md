@@ -5,7 +5,7 @@
 
 ## Sobre mim
 
-- 🔭 Atualmente sou bolsista de iniciação tecnológica do CNPq no Laboratório de Bioinformática e Química Compuatcial - UESB
+- 🔭 Atualmente sou bolsista de iniciação tecnológica do CNPq no Laboratório de Bioinformática e Química Computacional - UESB.
 
 - 👯 Eu procuro colaborar em projetos que envolvam análise de dados, inteligência artificial e bioinformática.
 
@@ -15,7 +15,7 @@
 
 - 💬 Fale comigo em: **lspalmeira.bio@gmail.com**
 
-- ⚡ Curiosidade sobre mim: amo basquete, sou flautista de vez em quando e escuto muito heavy metal (especiamente o power metal).
+- ⚡ Curiosidade sobre mim: amo basquete, sou flautista de vez em quando e escuto muito heavy metal (especialmente o power metal).
 
 
 ## Linguagens e ferramentas:

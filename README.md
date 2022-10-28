@@ -4,7 +4,7 @@
 
 - Possuo experiência com Machine Leraning, especialmente na construção de um pipeline preditivo da atividade de peptídeos antimicrobianos como profilaxia para a Covid-19 (SARS-CoV-2). Tal projeto culminou no registro/patente de software no INPI.
 
-- Estou disposto a realiza~r colaborações em projetos correlatos sempre na busca por mais conhecimento.
+- Estou disposto a realizar colaborações em projetos correlatos sempre na busca por mais conhecimento.
 
 
 ## Linguagens e ferramentas:

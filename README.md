@@ -52,8 +52,8 @@
 
 <div align="center">
   <a href="https://github.com/lucaspalmeira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucaspalmeira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaspalmeira&layout=compact&langs_count=8&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucaspalmeira&show_icons=true&theme=default&include_all_commits=true&count_private=true&title_color=1a73e8&text_color=333&bg_color=ffffff&border_color=e1e4e8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaspalmeira&layout=compact&langs_count=8&theme=default&title_color=1a73e8&text_color=333&bg_color=ffffff&border_color=e1e4e8"/>
 </div>
 
 ---
@@ -78,7 +78,7 @@
 
 ---
 
-## Structural Bioinformatics Tools
+## Structural Bioinformatics and Cheminformatics Tools
 
 <div style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap;">
   <a href="https://www.gromacs.org/"><img src="https://www.gromacs.org/_static/gmx_logo_blue.png" width="140" height="140"/></a>

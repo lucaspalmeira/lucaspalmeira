@@ -82,9 +82,7 @@
 
 <div style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap;">
   <a href="https://www.gromacs.org/"><img src="https://www.gromacs.org/_static/gmx_logo_blue.png" width="140" height="140"/></a>
-  <a href="http://vina.scripps.edu/"><img src="https://vina.scripps.edu/wp-content/uploads/sites/55/2020/12/vina_logo.png" width="40" height="40"/></a>
-  <a href="http://autodock.scripps.edu/"><img src="https://autodock.scripps.edu/wp-content/uploads/sites/56/2021/09/ad_site_logo300-1.png" width="40" height="40"/></a>
-  <a href="https://www.eyesopen.com/rocs"><img src="https://docs.eyesopen.com/applications/_static/logo.svg" width="120" height="120"/></a>
+  <a href="https://www.eyesopen.com/rocs"><img src="https://upload.wikimedia.org/wikipedia/en/2/23/OpenEye_Scientific_Software_logo.png" width="105" height="300"/></a>
   <a href="https://alphafold.ebi.ac.uk/"><img src="https://res.cloudinary.com/apideck/image/upload/v1638775806/icons/alphafold.png" width="40" height="40"/></a>
 </div>
 

@@ -93,7 +93,10 @@
 ## Structural Bioinformatics and Cheminformatics Tools
 
 <div style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap;">
-  <a href="https://www.gromacs.org/"><img src="https://www.gromacs.org/_static/gmx_logo_blue.png" width="140" height="140"/></a>
+  <a href="https://www.gromacs.org/"><img src="https://www.gromacs.org/_static/gmx_logo_blue.png" width="150" height="150"/></a>
+  <a href="https://ambermd.org/"><img src="https://github.com/lucaspalmeira/lucaspalmeira/blob/main/amber.png" width="60" height="80"/></a>
+  <a href="https://github.com/merzlab/QUICK"><img src="https://github.com/merzlab/QUICK/blob/master/tools/logo.png" width="120" height="120"/></a>
+  <a href="https://www.faccts.de/orca/"><img src="https://www.faccts.de/docs/orca/6.1/tutorials/_images/orca6-logo-text.svg" width="100" height="100"/></a>
   <a href="https://www.eyesopen.com/rocs"><img src="https://upload.wikimedia.org/wikipedia/en/2/23/OpenEye_Scientific_Software_logo.png" width="105" height="300"/></a>
   <a href="https://alphafold.ebi.ac.uk/"><img src="https://res.cloudinary.com/apideck/image/upload/v1638775806/icons/alphafold.png" width="40" height="40"/></a>
 </div>

@@ -5,7 +5,7 @@
 <div style="text-align: justify;">
   I am currently pursuing a <b>Master's degree in Bioinformatics</b> at the Federal University of Minas Gerais (<b>UFMG</b>), Brazil.    
   <br><br>
-  I am the developer of <a href=https://doi.org/10.1016/j.ijbiomac.2025.145050><b>FUNIN</b></a>, a web platform designed to organize and provide access to GH32 fungal enzyme data.  
+  I am the developer of <a href=https://funindb.lbqc.org/><b>FunIn DB</b></a>, a web platform designed to organize and provide access to GH32 fungal enzyme data.  
   The system was built with <b>Python, Flask, MongoDB</b>, and <b>Docker</b>, and serves as a foundational dataset for future AI-driven enzyme design.  
   <br><br>
   Currently, my research focuses on the <b>optimization of GH32 fungal enzymes</b> derived from the FUNIN database, using <b>Protein Language Models (pLMs)</b> and deep learning frameworks such as <b>PyTorch</b> and <b>TensorFlow</b>.  

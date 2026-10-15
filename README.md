@@ -3,14 +3,15 @@
 ## About Me
 
 <div style="text-align: justify;">
-  I am currently pursuing a <b>Master's degree in Bioinformatics</b> at the Federal University of Minas Gerais (<b>UFMG</b>), Brazil.    
+  I hold a <b>Master of Science (M.Sc.) in Bioinformatics</b> from the Federal University of Minas Gerais (<b>UFMG</b>), Brazil.
   <br><br>
-  I am the developer of <a href=https://funindb.lbqc.org/><b>FunIn DB</b></a>, a web platform designed to organize and provide access to GH32 fungal enzyme data.  
-  The system was built with <b>Python, Flask, MongoDB</b>, and <b>Docker</b>, and serves as a foundational dataset for future AI-driven enzyme design.  
+  I am the developer of <a href="https://funindb.lbqc.org/"><b>FunIn DB</b></a>, a web platform designed to organize and provide access to GH32 fungal enzyme data.
   <br><br>
-  Currently, my research focuses on the <b>optimization of GH32 fungal enzymes</b> derived from the FUNIN database, using <b>Protein Language Models (pLMs)</b> and deep learning frameworks such as <b>PyTorch</b> and <b>TensorFlow</b>.  
+  The system was built with <b>Python, Flask, MongoDB</b>, and <b>Docker</b>, and serves as a foundational dataset for AI-driven enzyme design and engineering.
   <br><br>
-  My research interests include <b>Protein Language Models (pLMs)</b>, <b>Large Language Models (LLMs)</b>, <b>Machine Learning</b>, <b>Genetic Algorithms</b>, and <b>Protein Design & Engineering</b>.
+  My research focuses on the <b>optimization of GH32 fungal enzymes</b> using <b>Protein Language Models (pLMs)</b>, <b>Machine Learning</b>, <b>Genetic Algorithms</b>, <b>Molecular Dynamics (MD)</b>, and <b>Quantum Mechanics/Molecular Mechanics (QM/MM)</b> simulations, integrating computational approaches to investigate enzyme stability, substrate interactions, and catalytic mechanisms.
+  <br><br>
+  My research interests include <b>Structural Bioinformatics</b>, <b>Computational Chemistry</b>, <b>Protein Language Models (pLMs)</b>, <b>Large Language Models (LLMs)</b>, <b>Machine Learning</b>, <b>Deep Learning</b>, <b>Genetic Algorithms</b>, <b>Protein Design & Engineering</b>, <b>Molecular Dynamics Simulations</b>, and <b>QM/MM Simulations</b>.
 </div>
 
 ---
